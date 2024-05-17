@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_menu"
+        android:icon="@drawable/ic_main_menu"
+        android:title="Главная"
+        android:orderInCategory="1"/>
+    <item
+        android:id="@+id/clients"
+        android:icon="@drawable/ic_clients"
+        android:title="Клиенты"
+        android:orderInCategory="2"/>
+    <item
+        android:id="@+id/top100"
+        android:icon="@drawable/ic_top100"
+        android:title="Топ-100"
+        android:orderInCategory="3"/>
+    <item
+        android:id="@+id/profile_menu"
+        android:icon="@drawable/ic_profile_menu"
+        android:title="Меню"
+        android:orderInCategory="4"/>
+</menu>
